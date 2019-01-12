@@ -21,3 +21,4 @@ plugins:
 
 gems:
    - jekyll-language-plugin
+   - jekyll-sitemap
