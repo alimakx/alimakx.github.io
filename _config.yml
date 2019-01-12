@@ -18,3 +18,4 @@ gems:
    - jekyll-include-cache 
    - jekyll-analytics
    - jekyll-webp
+   - jekyll-default-layout
