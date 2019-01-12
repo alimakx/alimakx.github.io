@@ -11,14 +11,10 @@ github_username: alimakx
 # Build settings
 markdown: kramdown
 
-plugins:
-   - jekyll-language-plugin
-   - jekyll-seo-tag
-   - jekyll-sitemap
-   - jekyll-include-cache
-   - jekyll-analytics
-   - jekyll-webp
-
 gems:
    - jekyll-language-plugin
    - jekyll-sitemap
+   - jekyll-seo-tag
+   - jekyll-include-cache 
+   - jekyll-analytics
+   - jekyll-webp
