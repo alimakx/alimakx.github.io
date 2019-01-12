@@ -13,3 +13,8 @@ markdown: kramdown
 
 plugins:
    - jekyll-language-plugin
+   - jekyll-seo-tag
+   - jekyll-sitemap
+   - jekyll-include-cache
+   - jekyll-analytics
+   - jekyll-webp
