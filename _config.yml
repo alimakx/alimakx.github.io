@@ -10,3 +10,6 @@ github_username: alimakx
 
 # Build settings
 markdown: kramdown
+
+plugins:
+   - jekyll-language-plugin
