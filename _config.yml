@@ -19,3 +19,6 @@ gems:
    - jekyll-analytics
    - jekyll-webp
    - jekyll-default-layout
+
+# Google Analytics
+google_analytics: UA—12972361-1
