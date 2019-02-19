@@ -22,8 +22,3 @@ gems:
 
 # Google Analytics
 google_analytics: UA—12972361-1
-
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA—12972361-1       # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
